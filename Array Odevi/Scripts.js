@@ -1,6 +1,6 @@
 //** Kullanicidan dizi uzunlugunun alinmasi
-//*! var len=prompt("Dizi uzunlugunu giriniz: ")
-var len=5
+var len=prompt("Dizi uzunlugunu giriniz: ")
+
 var oddSum=0
 var evenSum=0
 var sum=0
